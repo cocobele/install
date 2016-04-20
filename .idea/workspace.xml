@@ -28,7 +28,7 @@
       <file leaf-file-name="install.sh" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/install.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="672" selection-end="672" vertical-scroll-proportion="-19.0" vertical-offset="0" max-vertical-offset="608">
+            <state line="26" column="0" selection-start="673" selection-end="673" vertical-scroll-proportion="-19.76" vertical-offset="0" max-vertical-offset="608">
               <folding />
             </state>
           </provider>
@@ -37,7 +37,7 @@
       <file leaf-file-name="ready.conf" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ready.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="6" selection-start="345" selection-end="345" vertical-scroll-proportion="0.28301886" vertical-offset="98" max-vertical-offset="1463">
+            <state line="54" column="0" selection-start="1022" selection-end="1146" vertical-scroll-proportion="0.49811321" vertical-offset="630" max-vertical-offset="1482">
               <folding />
             </state>
           </provider>
@@ -73,8 +73,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="828" />
-    <option name="y" value="58" />
+    <option name="x" value="723" />
+    <option name="y" value="18" />
     <option name="width" value="1168" />
     <option name="height" value="953" />
   </component>
@@ -156,7 +156,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="828" y="58" width="1168" height="953" extended-state="0" />
+    <frame x="723" y="18" width="1168" height="953" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -205,14 +205,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/install.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="672" selection-end="672" vertical-scroll-proportion="-19.0" vertical-offset="0" max-vertical-offset="608">
+        <state line="26" column="0" selection-start="673" selection-end="673" vertical-scroll-proportion="-19.76" vertical-offset="0" max-vertical-offset="608">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ready.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="6" selection-start="345" selection-end="345" vertical-scroll-proportion="0.28301886" vertical-offset="98" max-vertical-offset="1463">
+        <state line="54" column="0" selection-start="1022" selection-end="1146" vertical-scroll-proportion="0.49811321" vertical-offset="630" max-vertical-offset="1482">
           <folding />
         </state>
       </provider>
