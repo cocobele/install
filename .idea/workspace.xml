@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff1e610c-c850-4cb6-a494-2bcea6dc57b2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/install.sh" afterPath="$PROJECT_DIR$/install.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ready.conf" afterPath="$PROJECT_DIR$/ready.conf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\www\lixu\install\array.conf" afterPath="$PROJECT_DIR$/config.conf" />
     </list>
     <ignored path="install.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="install.sh" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="install.sh" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/install.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="681" selection-end="681" vertical-scroll-proportion="0.64155847" vertical-offset="0" max-vertical-offset="770">
+            <state line="26" column="0" selection-start="681" selection-end="681" vertical-scroll-proportion="-19.76" vertical-offset="0" max-vertical-offset="608">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ready.conf" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ready.conf" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ready.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="8" selection-start="883" selection-end="891" vertical-scroll-proportion="0.0" vertical-offset="798" max-vertical-offset="1729">
+            <state line="58" column="19" selection-start="1205" selection-end="1205" vertical-scroll-proportion="0.06792453" vertical-offset="1048" max-vertical-offset="1843">
               <folding />
             </state>
           </provider>
@@ -49,7 +46,7 @@
       <file leaf-file-name="config.conf" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="747" selection-end="747" vertical-scroll-proportion="-3.2933333" vertical-offset="0" max-vertical-offset="361">
+            <state line="3" column="14" selection-start="238" selection-end="252" vertical-scroll-proportion="-0.76" vertical-offset="0" max-vertical-offset="361">
               <folding />
             </state>
           </provider>
@@ -70,8 +67,8 @@
       <list>
         <option value="$PROJECT_DIR$/array.sh" />
         <option value="$PROJECT_DIR$/config.conf" />
-        <option value="$PROJECT_DIR$/ready.conf" />
         <option value="$PROJECT_DIR$/install.sh" />
+        <option value="$PROJECT_DIR$/ready.conf" />
       </list>
     </option>
   </component>
@@ -202,21 +199,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="747" selection-end="747" vertical-scroll-proportion="-3.2933333" vertical-offset="0" max-vertical-offset="361">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ready.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="8" selection-start="883" selection-end="891" vertical-scroll-proportion="0.0" vertical-offset="798" max-vertical-offset="1729">
+        <state line="3" column="14" selection-start="238" selection-end="252" vertical-scroll-proportion="-0.76" vertical-offset="0" max-vertical-offset="361">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/install.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="681" selection-end="681" vertical-scroll-proportion="0.64155847" vertical-offset="0" max-vertical-offset="770">
+        <state line="26" column="0" selection-start="681" selection-end="681" vertical-scroll-proportion="-19.76" vertical-offset="0" max-vertical-offset="608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ready.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="19" selection-start="1205" selection-end="1205" vertical-scroll-proportion="0.06792453" vertical-offset="1048" max-vertical-offset="1843">
           <folding />
         </state>
       </provider>
