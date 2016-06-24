@@ -48,5 +48,7 @@ fi
 
 ## first install compile package  如为CentOS
 requirerpm
+## 创建网站根目录
+createBizsky
 
 
