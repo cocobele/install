@@ -52,4 +52,5 @@ requirerpm
 createBizsky
 
 ##################################################################################  mysql.conf
-
+. ./mysql.conf
+mysql_install
