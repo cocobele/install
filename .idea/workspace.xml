@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff1e610c-c850-4cb6-a494-2bcea6dc57b2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/install.sh" afterPath="$PROJECT_DIR$/install.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysql.conf" afterPath="$PROJECT_DIR$/mysql.conf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ready.conf" afterPath="$PROJECT_DIR$/ready.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="install.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,28 +45,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ready.conf" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ready.conf" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ready.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="68" selection-start="29937" selection-end="29955" vertical-scroll-proportion="0.0" vertical-offset="1376" max-vertical-offset="2337">
+            <state line="33" column="33" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.8163539" vertical-offset="18" max-vertical-offset="2337">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="step1.conf" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/step1.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="30" selection-start="28234" selection-end="28234" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="1273">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mysql.conf" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="mysql.conf" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysql.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="1" selection-start="551" selection-end="551" vertical-scroll-proportion="0.35656837" vertical-offset="0" max-vertical-offset="746">
+            <state line="15" column="15" selection-start="567" selection-end="567" vertical-scroll-proportion="-5.7" vertical-offset="0" max-vertical-offset="608">
               <folding />
             </state>
           </provider>
@@ -89,8 +80,8 @@
         <option value="$PROJECT_DIR$/config.conf" />
         <option value="$PROJECT_DIR$/step1.conf" />
         <option value="$PROJECT_DIR$/install.sh" />
-        <option value="$PROJECT_DIR$/ready.conf" />
         <option value="$PROJECT_DIR$/mysql.conf" />
+        <option value="$PROJECT_DIR$/ready.conf" />
       </list>
     </option>
   </component>
@@ -199,7 +190,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="290" y="43" width="1233" height="956" extended-state="0" />
+    <frame x="290" y="43" width="1233" height="956" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -519,16 +510,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/step1.conf">
+    <entry file="file://$PROJECT_DIR$/install.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="30" selection-start="28234" selection-end="28234" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="1273">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ready.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="68" selection-start="29937" selection-end="29955" vertical-scroll-proportion="0.0" vertical-offset="1376" max-vertical-offset="2337">
+        <state line="53" column="94" selection-start="1269" selection-end="1269" vertical-scroll-proportion="-29.6" vertical-offset="267" max-vertical-offset="1159">
           <folding />
         </state>
       </provider>
@@ -540,16 +524,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/install.sh">
+    <entry file="file://$PROJECT_DIR$/step1.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="94" selection-start="1269" selection-end="1269" vertical-scroll-proportion="-29.6" vertical-offset="267" max-vertical-offset="1159">
+        <state line="47" column="30" selection-start="28234" selection-end="28234" vertical-scroll-proportion="0.5581098" vertical-offset="456" max-vertical-offset="1273">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mysql.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="1" selection-start="551" selection-end="551" vertical-scroll-proportion="0.35656837" vertical-offset="0" max-vertical-offset="746">
+        <state line="15" column="15" selection-start="567" selection-end="567" vertical-scroll-proportion="-5.7" vertical-offset="0" max-vertical-offset="608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ready.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="33" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.8163539" vertical-offset="18" max-vertical-offset="2337">
           <folding />
         </state>
       </provider>
