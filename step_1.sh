@@ -50,8 +50,3 @@ fi
 requirerpm
 ## 创建网站根目录
 createBizsky
-
-##################################################################################  mysql.conf
-. ./conf/mysql.conf
-mysql_install&
-mysql_config
