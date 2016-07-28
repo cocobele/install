@@ -21,12 +21,12 @@ echo -e "++++++++++++++++++++++++++++Section 0 Ready++++++++++++++++++++++++++++
 . ./conf/ready.conf
 #检查是否有root权限
 root
+##屏蔽交互提示
+mask_cross
 #Require root
 disable_selinux
 ## 停止不必要的服务
 stop_servers
-##屏蔽交互提示
-mask_cross
 ### 在root用户目录建立.ssh目录便于远程上传文件更新
 mkdir -p ~/.ssh
 chmod 700 ~/.ssh
