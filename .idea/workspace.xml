@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff1e610c-c850-4cb6-a494-2bcea6dc57b2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/ready.conf" afterPath="$PROJECT_DIR$/conf/ready.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/mysql.conf" afterPath="$PROJECT_DIR$/conf/mysql.conf" />
     </list>
     <ignored path="install.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -82,7 +82,7 @@
       <file leaf-file-name="mysql.conf" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conf/mysql.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="884" selection-end="884" vertical-scroll-proportion="0.7169811" vertical-offset="0" max-vertical-offset="848">
+            <state line="16" column="39" selection-start="567" selection-end="567" vertical-scroll-proportion="0.35849056" vertical-offset="0" max-vertical-offset="848">
               <folding />
             </state>
           </provider>
@@ -136,7 +136,6 @@
         <option value="$PROJECT_DIR$/mysql.conf" />
         <option value="$PROJECT_DIR$/install.sh" />
         <option value="$PROJECT_DIR$/conf/loadData.conf" />
-        <option value="$PROJECT_DIR$/conf/mysql.conf" />
         <option value="$PROJECT_DIR$/conf/step_4.conf" />
         <option value="$PROJECT_DIR$/conf/step_9.conf" />
         <option value="$PROJECT_DIR$/conf/step_end.conf" />
@@ -149,6 +148,7 @@
         <option value="$PROJECT_DIR$/step_3.sh" />
         <option value="$PROJECT_DIR$/step_2.sh" />
         <option value="$PROJECT_DIR$/conf/ready.conf" />
+        <option value="$PROJECT_DIR$/conf/mysql.conf" />
       </list>
     </option>
   </component>
@@ -605,7 +605,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/mysql.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="884" selection-end="884" vertical-scroll-proportion="0.7169811" vertical-offset="0" max-vertical-offset="848">
+        <state line="16" column="39" selection-start="567" selection-end="567" vertical-scroll-proportion="0.35849056" vertical-offset="0" max-vertical-offset="848">
           <folding />
         </state>
       </provider>
